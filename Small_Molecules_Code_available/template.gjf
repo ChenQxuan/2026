@@ -1,0 +1,10 @@
+%nprocshared=12
+%mem=23GB
+%chk=[name].chk
+#p b3lyp/6-31g* opt em=gd3bj freq
+
+template file
+
+  0  1
+[geometry]
+
